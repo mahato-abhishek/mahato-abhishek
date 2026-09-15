@@ -17,6 +17,3 @@ Database    PostgreSQL • Drizzle • Neon
 Tools       Git • GitHub • VS Code
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📫 Let's connect
-<a href="https://mahatoabhishek.netlify.app/">Portfolio</a>• LinkedIn • Email
