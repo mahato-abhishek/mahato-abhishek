@@ -16,4 +16,3 @@ Backend     Server Actions • REST APIs
 Database    PostgreSQL • Drizzle • Neon
 Tools       Git • GitHub • VS Code
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
