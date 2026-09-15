@@ -9,10 +9,10 @@ full-stack development.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🛠️ Tech Stack
+🛠️ Tech Stack  
 
-Frontend    React • Next.js • TypeScript 
-Backend     Server Actions • REST APIs
-Database    PostgreSQL • Drizzle • Neon
-Tools       Git • GitHub • VS Code
+Frontend -- React • Next.js • TypeScript  
+Backend  -- Server Actions • REST APIs  
+Database  --       PostgreSQL • Drizzle • Neon  
+Tools     --       Git • GitHub • VS Code  
 
