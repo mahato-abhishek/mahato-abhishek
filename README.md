@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Abhishek 👋
 
-<!--
-**mahato-abhishek/mahato-abhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer
+React • Next.js • TypeScript
 
-Here are some ideas to get you started:
+I build modern, responsive web applications
+with a focus on clean UI and practical
+full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+┌──────────────────────────────────────┐
+│ Planora                              │
+│ Full-stack project management app   │
+│ Next.js • TypeScript • PostgreSQL   │
+│                                      │
+│ [Live Demo] [Repository]             │
+└──────────────────────────────────────┘
+
+┌──────────────────────────────────────┐
+│ Brishti                              │
+│ Real-time weather application       │
+│ React • TypeScript • REST API       │
+│                                      │
+│ [Live Demo] [Repository]             │
+└──────────────────────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tech Stack
+
+Frontend    React • Next.js • TypeScript
+Backend     Server Actions • REST APIs
+Database    PostgreSQL • Drizzle • Neon
+Tools       Git • GitHub • VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 Let's connect
+<a href="https://mahatoabhishek.netlify.app/">Portfolio</a>• LinkedIn • Email
