@@ -9,26 +9,6 @@ full-stack development.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🚀 Featured Projects
-
-┌──────────────────────────────────────┐
-│ Planora                              │
-│ Full-stack project management app   │
-│ Next.js • TypeScript • PostgreSQL   │
-│                                      │
-│ [Live Demo] [Repository]             │
-└──────────────────────────────────────┘
-
-┌──────────────────────────────────────┐
-│ Brishti                              │
-│ Real-time weather application       │
-│ React • TypeScript • REST API       │
-│                                      │
-│ [Live Demo] [Repository]             │
-└──────────────────────────────────────┘
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 🛠️ Tech Stack
 
 Frontend    React • Next.js • TypeScript
