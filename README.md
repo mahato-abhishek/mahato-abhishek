@@ -11,7 +11,7 @@ full-stack development.
 
 🛠️ Tech Stack
 
-Frontend    React • Next.js • TypeScript
+Frontend    React • Next.js • TypeScript 
 Backend     Server Actions • REST APIs
 Database    PostgreSQL • Drizzle • Neon
 Tools       Git • GitHub • VS Code
